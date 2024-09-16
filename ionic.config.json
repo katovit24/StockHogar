@@ -1,0 +1,7 @@
+{
+  "name": "stockHogar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
